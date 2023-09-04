@@ -1,1 +1,1 @@
-Using framework Scrapy
+Using framework Scrapy for search in articles
